@@ -1,0 +1,97 @@
+.header {
+	margin: 0;
+  width: 950px;
+  height: 100px;
+  z-index: 22;
+  background: linear-gradient(to right, #fff, #b7e972);
+}
+
+.header__logo {
+  background-image: url("images/logo.png");
+  float: left;
+  width: 220px;
+  height: 100px;
+  z-index: 25;
+}
+.header h1{
+	margin: 0;
+  font-size: 48px;
+  font-family: "Gabriola";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  text-align: justifyLeft;
+   z-index: 24;
+}
+.header__image{
+  background-image: url("images/dom.png");
+  float: right;
+  z-index: 23;
+}
+.header__tagline{
+	display: inline;
+	font-weight: bold;
+  font-size: 48px;
+  font-family: "Gabriola";
+  color: rgb(255, 255, 255);
+  line-height: 1.2;
+  position: relative;
+  left: 5px;
+  top: 20px;
+  z-index: 24;
+  text-shadow: 1px 1px 4px rgba(7, 76, 13, 1), 0 0 0.2em #074c0d;
+}
+.header__phone{
+  font-size: 15px;
+  font-family: "a_ConceptoNr";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  position: relative;
+  left: 521px;
+  top: -15px;
+  z-index: 26;
+  text-shadow: 1px 1px 4px rgba(7, 76, 13, 1), 0 0 0.2em #074c0d;
+}
+.header__mail{
+  font-size: 15px;
+  font-family: "a_ConceptoNr";
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  line-height: 1.2;
+  position: relative;
+  left: 398px;
+  top: 10px;
+  z-index: 26;
+  text-shadow: 1px 1px 4px rgba(7, 76, 13, 1), 0 0 0.2em #074c0d;
+}
+}
+.header__icons{
+	display: block;
+  position: relative;
+  left: 822px;
+  top: 45px;
+  width: 21px;
+  height: 43px;
+  z-index: 28;
+}
+.wrapper__self{
+	margin: 0px;
+	position: relative;
+  left: 710px;
+  top: -57px;
+  width: 21px;
+  height: 43px;
+}
+.dropdown__height{
+
+}
+.nav__background{
+	background-color: #89c13b;
+}
+.navbar__crutch{
+	margin-left: 80px;
+}
+
+
+
+
